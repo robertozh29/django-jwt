@@ -1,1 +1,2 @@
 # django-jwt
+Authentication API built with Django and JWT (JSON Web Tokens) for secure user authentication. This API supports user registration, login, token-based authentication, and logout, ensuring seamless and secure access control for your applications.
